@@ -1,0 +1,29 @@
+TRADING LOTTO V0.2 – INSTALLASJON
+
+Denne pakken erstatter filene i rotmappen på GitHub Pages.
+Last opp/erstatt:
+- index.html
+- manifest.webmanifest
+- sw.js
+- icon.svg
+- icon-192.png
+- icon-512.png
+
+Hjelpefiler:
+- aksjeliste-100.csv: startlisten
+- kursdata-mal.csv: kolonnene som må finnes i kursimporten
+
+BRUK:
+1. Åpne appen.
+2. Trykk «Velg CSV med dagskurser».
+3. Velg CSV med Date,Ticker,Open,High,Low,Close,Volume.
+4. Appen beregner rangering lokalt på enheten.
+
+VIKTIG:
+- Ingen live data eller automatisk daglig innhenting.
+- Ingen kjøp/salg eller brokerkobling.
+- Minst 60 handelsdager kreves per aksje.
+- CSV må være pålitelig og oppdatert. Sjekk siste dato.
+- BRK.B kan hos enkelte datakilder hete BRK-B; endre til BRK.B i CSV før import.
+- Data lagres i nettleserens lokale lagring på denne enheten. De synkroniseres ikke mellom enheter.
+- Poengmodellen er en enkel sortering og er ikke historisk validert eller en sannsynlighet for gevinst.

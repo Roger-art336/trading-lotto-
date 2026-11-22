@@ -1,0 +1,101 @@
+Ticker,Company,Sector
+AAPL,Apple,Teknologi
+ABBV,AbbVie,Helse
+ABT,Abbott Laboratories,Helse
+ACN,Accenture,Teknologi
+ADBE,Adobe,Teknologi
+AMAT,Applied Materials,Teknologi
+AMD,Advanced Micro Devices,Teknologi
+AMGN,Amgen,Helse
+AMT,American Tower,Eiendom
+AMZN,Amazon,Forbruk
+ANET,Arista Networks,Teknologi
+AVGO,Broadcom,Teknologi
+AXP,American Express,Finans
+BA,Boeing,Industri
+BAC,Bank of America,Finans
+BKNG,Booking Holdings,Forbruk
+BLK,BlackRock,Finans
+BMY,Bristol Myers Squibb,Helse
+BNY,BNY Mellon,Finans
+BRK.B,Berkshire Hathaway B,Finans
+C,Citigroup,Finans
+CAT,Caterpillar,Industri
+CMCSA,Comcast,Kommunikasjon
+COF,Capital One,Finans
+COP,ConocoPhillips,Energi
+COST,Costco,Forbruk
+CRM,Salesforce,Teknologi
+CSCO,Cisco,Teknologi
+CVS,CVS Health,Helse
+CVX,Chevron,Energi
+DE,Deere,Industri
+DELL,Dell Technologies,Teknologi
+DHR,Danaher,Helse
+DIS,Walt Disney,Kommunikasjon
+DUK,Duke Energy,Forsyning
+EMR,Emerson Electric,Industri
+FDX,FedEx,Industri
+GD,General Dynamics,Industri
+GE,GE Aerospace,Industri
+GEV,GE Vernova,Industri
+GILD,Gilead Sciences,Helse
+GM,General Motors,Forbruk
+GOOGL,Alphabet A,Kommunikasjon
+GS,Goldman Sachs,Finans
+HD,Home Depot,Forbruk
+IBM,IBM,Teknologi
+INTC,Intel,Teknologi
+INTU,Intuit,Teknologi
+ISRG,Intuitive Surgical,Helse
+JNJ,Johnson & Johnson,Helse
+JPM,JPMorgan Chase,Finans
+KO,Coca-Cola,Forbruk
+LIN,Linde,Materialer
+LLY,Eli Lilly,Helse
+LMT,Lockheed Martin,Industri
+LOW,Lowe's,Forbruk
+LRCX,Lam Research,Teknologi
+MA,Mastercard,Finans
+MCD,McDonald's,Forbruk
+MDLZ,Mondelez,Forbruk
+MDT,Medtronic,Helse
+META,Meta Platforms,Kommunikasjon
+MMM,3M,Industri
+MO,Altria,Forbruk
+MRK,Merck,Helse
+MS,Morgan Stanley,Finans
+MSFT,Microsoft,Teknologi
+MU,Micron Technology,Teknologi
+NEE,NextEra Energy,Forsyning
+NFLX,Netflix,Kommunikasjon
+NOW,ServiceNow,Teknologi
+NVDA,Nvidia,Teknologi
+ORCL,Oracle,Teknologi
+PANW,Palo Alto Networks,Teknologi
+PEP,PepsiCo,Forbruk
+PFE,Pfizer,Helse
+PG,Procter & Gamble,Forbruk
+PLTR,Palantir,Teknologi
+PM,Philip Morris,Forbruk
+QCOM,Qualcomm,Teknologi
+RTX,RTX,Industri
+SBUX,Starbucks,Forbruk
+SCHW,Charles Schwab,Finans
+SNDK,SanDisk,Teknologi
+SO,Southern Company,Forsyning
+T,AT&T,Kommunikasjon
+TMO,Thermo Fisher,Helse
+TMUS,T-Mobile US,Kommunikasjon
+TSLA,Tesla,Forbruk
+TXN,Texas Instruments,Teknologi
+UBER,Uber,Industri
+UNH,UnitedHealth Group,Helse
+UNP,Union Pacific,Industri
+UPS,UPS,Industri
+USB,U.S. Bancorp,Finans
+V,Visa,Finans
+VZ,Verizon,Kommunikasjon
+WFC,Wells Fargo,Finans
+WMT,Walmart,Forbruk
+XOM,ExxonMobil,Energi
